@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/Jayaa05/Leetcode_DSA/tree/master/1260-shift-2d-grid) |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Jayaa05/Leetcode_DSA/tree/master/1260-shift-2d-grid) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
