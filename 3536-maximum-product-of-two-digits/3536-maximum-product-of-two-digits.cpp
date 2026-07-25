@@ -1,0 +1,14 @@
+class Solution {
+public:
+    int maxProduct(int n) {
+        int num=1;
+        vector<int> arr;
+        while(n>0){
+            arr.push_back(n%10);
+            n/=10;
+        }
+    sort(arr.begin(),arr.end());
+    return arr[arr.size()-2]*arr[arr.size()-1];
+
+    }
+};
