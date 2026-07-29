@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jayaa05/Leetcode_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
