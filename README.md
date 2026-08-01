@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0771-jewels-and-stones) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jayaa05/Leetcode_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jayaa05/Leetcode_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Jayaa05/Leetcode_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0001-two-sum) |
+| [0771-jewels-and-stones](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0771-jewels-and-stones) |
 ## Bit Manipulation
 |  |
 | ------- |
