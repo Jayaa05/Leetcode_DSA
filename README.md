@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/Jayaa05/Leetcode_DSA/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jayaa05/Leetcode_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1929-concatenation-of-array](https://github.com/Jayaa05/Leetcode_DSA/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jayaa05/Leetcode_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Jayaa05/Leetcode_DSA/tree/master/2373-largest-local-values-in-a-matrix) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Jayaa05/Leetcode_DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Jayaa05/Leetcode_DSA/tree/master/1260-shift-2d-grid) |
+| [1929-concatenation-of-array](https://github.com/Jayaa05/Leetcode_DSA/tree/master/1929-concatenation-of-array) |
 | [2582-pass-the-pillow](https://github.com/Jayaa05/Leetcode_DSA/tree/master/2582-pass-the-pillow) |
 ## Hash Table
 |  |
