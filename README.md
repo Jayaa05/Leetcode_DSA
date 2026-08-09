@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0877-stone-game) |
+| [1518-water-bottles](https://github.com/Jayaa05/Leetcode_DSA/tree/master/1518-water-bottles) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jayaa05/Leetcode_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2582-pass-the-pillow](https://github.com/Jayaa05/Leetcode_DSA/tree/master/2582-pass-the-pillow) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jayaa05/Leetcode_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Jayaa05/Leetcode_DSA/tree/master/1260-shift-2d-grid) |
+| [1518-water-bottles](https://github.com/Jayaa05/Leetcode_DSA/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/Jayaa05/Leetcode_DSA/tree/master/1929-concatenation-of-array) |
 | [2582-pass-the-pillow](https://github.com/Jayaa05/Leetcode_DSA/tree/master/2582-pass-the-pillow) |
 ## Hash Table
