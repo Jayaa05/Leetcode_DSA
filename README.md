@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0450-delete-node-in-a-bst) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Jayaa05/Leetcode_DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0450-delete-node-in-a-bst) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Jayaa05/Leetcode_DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Enumeration
 |  |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
