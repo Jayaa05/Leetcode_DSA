@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0450-delete-node-in-a-bst) |
+| [2236-root-equals-sum-of-children](https://github.com/Jayaa05/Leetcode_DSA/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Jayaa05/Leetcode_DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0450-delete-node-in-a-bst) |
+| [2236-root-equals-sum-of-children](https://github.com/Jayaa05/Leetcode_DSA/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Jayaa05/Leetcode_DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Enumeration
 |  |
