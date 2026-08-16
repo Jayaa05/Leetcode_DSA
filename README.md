@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0938-range-sum-of-bst) |
 | [2236-root-equals-sum-of-children](https://github.com/Jayaa05/Leetcode_DSA/tree/master/2236-root-equals-sum-of-children) |
@@ -133,11 +134,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0938-range-sum-of-bst](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0938-range-sum-of-bst) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Jayaa05/Leetcode_DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0938-range-sum-of-bst) |
 | [2236-root-equals-sum-of-children](https://github.com/Jayaa05/Leetcode_DSA/tree/master/2236-root-equals-sum-of-children) |
@@ -155,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0938-range-sum-of-bst) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
