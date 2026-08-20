@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jayaa05/Leetcode_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Jayaa05/Leetcode_DSA/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jayaa05/Leetcode_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Jayaa05/Leetcode_DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Jayaa05/Leetcode_DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/Jayaa05/Leetcode_DSA/tree/master/3731-find-missing-elements) |
 ## Math
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/Jayaa05/Leetcode_DSA/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/Jayaa05/Leetcode_DSA/tree/master/1929-concatenation-of-array) |
 | [2582-pass-the-pillow](https://github.com/Jayaa05/Leetcode_DSA/tree/master/2582-pass-the-pillow) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Jayaa05/Leetcode_DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
