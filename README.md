@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0804-unique-morse-code-words](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0804-unique-morse-code-words) |
 | [0877-stone-game](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/Jayaa05/Leetcode_DSA/tree/master/1260-shift-2d-grid) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0804-unique-morse-code-words) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jayaa05/Leetcode_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/Jayaa05/Leetcode_DSA/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Jayaa05/Leetcode_DSA/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0771-jewels-and-stones](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0804-unique-morse-code-words) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jayaa05/Leetcode_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Jayaa05/Leetcode_DSA/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
