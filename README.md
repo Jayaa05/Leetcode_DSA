@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0088-merge-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0506-relative-ranks) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jayaa05/Leetcode_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search Tree
 |  |
