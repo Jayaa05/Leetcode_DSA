@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Jayaa05/Leetcode_DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Jayaa05/Leetcode_DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Jayaa05/Leetcode_DSA/tree/master/3731-find-missing-elements) |
+| [3842-toggle-light-bulbs](https://github.com/Jayaa05/Leetcode_DSA/tree/master/3842-toggle-light-bulbs) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Jayaa05/Leetcode_DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Jayaa05/Leetcode_DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Jayaa05/Leetcode_DSA/tree/master/3731-find-missing-elements) |
+| [3842-toggle-light-bulbs](https://github.com/Jayaa05/Leetcode_DSA/tree/master/3842-toggle-light-bulbs) |
 ## Number Theory
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Jayaa05/Leetcode_DSA/tree/master/1929-concatenation-of-array) |
 | [2582-pass-the-pillow](https://github.com/Jayaa05/Leetcode_DSA/tree/master/2582-pass-the-pillow) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Jayaa05/Leetcode_DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3842-toggle-light-bulbs](https://github.com/Jayaa05/Leetcode_DSA/tree/master/3842-toggle-light-bulbs) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jayaa05/Leetcode_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Jayaa05/Leetcode_DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Jayaa05/Leetcode_DSA/tree/master/3731-find-missing-elements) |
+| [3842-toggle-light-bulbs](https://github.com/Jayaa05/Leetcode_DSA/tree/master/3842-toggle-light-bulbs) |
 ## Bit Manipulation
 |  |
 | ------- |
