@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jayaa05/Leetcode_DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/Jayaa05/Leetcode_DSA/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jayaa05/Leetcode_DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Jayaa05/Leetcode_DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Jayaa05/Leetcode_DSA/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jayaa05/Leetcode_DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Jayaa05/Leetcode_DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jayaa05/Leetcode_DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Jayaa05/Leetcode_DSA/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Jayaa05/Leetcode_DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jayaa05/Leetcode_DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Monotonic Stack
 |  |
